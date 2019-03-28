@@ -1,0 +1,12 @@
+To compile and run my program copy and paste the following while in my directory:
+
+
+g++ -o zeffiro_program1 program1.cpp && ./zeffiro_program1 FILENAMEHERE && vim zeffiro_answer
+
+or just use this one for the TaleOfTwoCities text file:
+
+g++ -o zeffiro_program1 program1.cpp && ./zeffiro_program1 TaleOfTwoCities && vim zeffiro_answer
+
+
+
+The output of this program is put into a new file named answer which will be made in the same directory upon running the program.
